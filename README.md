@@ -1,6 +1,7 @@
 # python101
 Python 入門（中学生向け）
 
+Google アカウントを用意して、以下URLをひらきます。
 https://colab.research.google.com/github/koichii/python101/blob/main/tutorial01.ipynb
 
 
