@@ -1,12 +1,12 @@
 ## Python101
 
-Google アカウントを用意して、以下URLをひらきます。
+Google ColaboratoryをつかったPython（パイソン）入門です。
+Google アカウントを用意して、以下URLをひらいてください。
 
 ### はじめての Python
 [https://colab.research.google.com/github/koichii/python101/blob/main/tutorial01.ipynb](https://colab.research.google.com/github/koichii/python101/blob/main/tutorial01.ipynb)
 
 ### Python で競馬のオッズを計算する
-Google アカウントを用意して、以下URLをひらきます。
 [https://colab.research.google.com/github/koichii/python101/blob/main/keibaodds.ipynb](https://colab.research.google.com/github/koichii/python101/blob/main/keibaodds.ipynb)
 
 
