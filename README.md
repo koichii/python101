@@ -4,11 +4,10 @@ Google ColaboratoryをつかったPython（パイソン）入門です。
 Google アカウントを用意して、以下URLをひらいてください。
 
 ### はじめての Python
-[https://colab.research.google.com/github/koichii/python101/blob/main/tutorial01.ipynb](https://colab.research.google.com/github/koichii/python101/blob/main/tutorial01.ipynb)
+https://colab.research.google.com/github/koichii/python101/blob/main/tutorial01.ipynb
 
-
-### 単語あてゲーム(Google Colab):
-https://colab.research.google.com/github/koichii/python101/blob/main/wordguess.ipynb
+### タイピング ゲーム素材(Google Colab):
+https://colab.research.google.com/github/koichii/python101/blob/main/typinggame0.ipynb
 
 ### オープンデータ(Google Colab):
 https://colab.research.google.com/github/koichii/python101/blob/main/opendata.ipynb
