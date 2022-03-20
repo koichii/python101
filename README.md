@@ -3,6 +3,9 @@
 Google ColaboratoryをつかったPython（パイソン）入門です。
 Google アカウントを用意して、以下URLをひらいてください。
 
+### 動作確認と はじめての Google Colab
+https://colab.research.google.com/github/koichii/python101/blob/main/colab101.ipynb
+
 ### はじめての Python
 https://colab.research.google.com/github/koichii/python101/blob/main/tutorial01.ipynb
 
